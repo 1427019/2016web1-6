@@ -8,3 +8,11 @@ body{
   border:green 1px solid;
   background-color:white;
 }
+.explanation{
+  float:left;
+}
+dt{
+  clear:left;
+  float:letf;
+  font-weight:bold;
+}
