@@ -8,11 +8,10 @@ body{
   border:green 1px solid;
   background-color:white;
 }
-.explanation{
-  float:left;
-  width:468;
+#ingredient{
+  border:2px solid lightcoral;
+  border-collapse:collapse;
 }
-dt{
-  float:left;
-font-weight:bold;
+th,td{
+  border:1px solid lightcoral;
 }
