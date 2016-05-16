@@ -10,9 +10,10 @@ body{
 }
 .explanation{
   float:left;
+  width:468;
 }
 dt{
   clear:left;
   float:left;
-  width:468px;
+font-weight:bold;
 }
