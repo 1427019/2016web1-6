@@ -33,3 +33,6 @@ tfoot td{
   font-weight:bold;
   background-color:white;
 }
+.explanation{
+  float:left;
+}
